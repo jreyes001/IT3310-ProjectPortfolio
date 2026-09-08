@@ -1,1 +1,1 @@
-# IT3310-ProjectPortfolio
+Hello, I am Jesus Reyes an IT student attending IT Project Management (IT3310). This course provides me with the ability to work with Nova Tech as an associate consultant. The Nova Tech project includes a health network in which a team and I will be replacing the current system that patients use for scheduling. 
